@@ -10,8 +10,8 @@ Make sure you have Docker installed on your machine. You can download Docker fro
 
 ```bash
 # Clone this repository to your local machine:
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Lokinious/mongo-repo-image
+cd mongo-repo-image
 
 # Build the Docker image:
 docker build -t my-mongodb-image .
